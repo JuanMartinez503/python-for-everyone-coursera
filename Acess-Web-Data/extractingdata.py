@@ -1,5 +1,5 @@
 import re
-
+# Extracting data from a file and summing it
 data = open('data.txt')
 regex = '[0-9]+'
 numbers = list()
