@@ -1,0 +1,3 @@
+# search engine architecture are composed of 3 main components: web crawler, indexer, and query processor. the web crawler is responsible for finding and downloading web pages. the indexer is responsible for parsing the web pages and creating an index of the words and the pages where they are found. the query processor is responsible for processing the user's query and finding the pages that are relevant to the query.
+
+# http://www.py4e.com/code3/pagerank.zip this is where the code is founf
